@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammet Saltuk</h1>
+<h1 align="center">Hi 👋, I'm Muhammet Saltuk ÖZDEMİR</h1>
 <h3 align="center">Software Engineering Graduate | Exploring Web, Mobile & Embedded Systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammetsaltuk&label=Profile%20views&color=0e75b6&style=flat" alt="muhammetsaltuk" /> </p>
